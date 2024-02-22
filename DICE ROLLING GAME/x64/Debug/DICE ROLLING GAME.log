@@ -1,0 +1,3 @@
+﻿  DICE ROLLING GAME.cpp
+D:\PROJECTS FOR SEMESTER 1\DICE ROLLING GAME\DICE ROLLING GAME\DICE ROLLING GAME.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DICE ROLLING GAME.vcxproj -> D:\PROJECTS FOR SEMESTER 1\DICE ROLLING GAME\x64\Debug\DICE ROLLING GAME.exe
